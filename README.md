@@ -24,4 +24,5 @@ top products, and geographic distribution.
 
 ## 👤 Author
 Amir Payara
+Business Analyst/Data Analyst
 

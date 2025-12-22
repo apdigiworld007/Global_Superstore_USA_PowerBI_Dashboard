@@ -23,6 +23,6 @@ top products, and geographic distribution.
 - Dashboard screenshots
 
 ## 👤 Author
-Amir Payara
-Business Analyst/Data Analyst
+- Amir Payara
+- Business Analyst/Data Analyst
 

@@ -22,6 +22,9 @@ top products, and geographic distribution.
 - Sales_Performance_Dashboard.pbix
 - Dashboard screenshots
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 👤 Author
 - Amir Payara
 - Business Analyst/Data Analyst

@@ -1,5 +1,5 @@
 # Sales Performance Dashboard (2016–2017)
-- Power BI dashboard analyzing sales trends, profitability, and regional performance (2016–2017).
+- Power BI dashboard analyzing sales trends, profitability, and regional performance (2014–2017).
 
 ## 📊 Project Overview
 This project analyzes sales performance using Power BI.

@@ -24,7 +24,7 @@ top products, and geographic distribution.
 
 ## 📂 Files
 - [Data Set](https://www.tableau.com/sites/default/files/training/global_superstore.zip)
-- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard](Global_Superstore-USA-Sales_Performance_POWER-BI)
+- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard](Global_Superstore_USA_Sales_Performance_POWER-BI_Dashboard.pbix)
 
 
 ## 👤 Author

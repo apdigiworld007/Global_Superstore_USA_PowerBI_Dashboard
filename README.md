@@ -24,7 +24,7 @@ top products, and geographic distribution.
 
 ## 📂 Files
 - [Data Set](https://github.com/apdigiworld007/Global_Superstore_USA_PowerBI_Dashboard/blob/main/Dataset/Global_Superstore_Orders_USA.csv)
-- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard](Global_Superstore_USA_Sales_Performance_POWER-BI_Dashboard.pbix)
+- [Global_Superstore-USA-Sales_Performance_POWER-BI_Dashboard](https://github.com/apdigiworld007/Global_Superstore_USA_PowerBI_Dashboard/blob/main/Power%20BI/Global_Superstore_USA_Sales_Performance_POWER-BI_Dashboard.pbix)
 
 
 ## 👤 Author

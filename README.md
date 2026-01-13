@@ -13,7 +13,7 @@ top products, and geographic distribution.
 - Power Query
 
 ## 📷 Dashboard Preview
--[Dashboard](https://github.com/apdigiworld007/Global_Superstore_USA_PowerBI_Dashboard/blob/main/Power%20BI/Power_BI_Dashboard.png)
+-![Dashboard](https://github.com/apdigiworld007/Global_Superstore_USA_PowerBI_Dashboard/blob/main/Power%20BI/Power_BI_Dashboard.png)
 
 ## 📈 Key Insights
 - Total Sales: 2.30M

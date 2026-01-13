@@ -13,7 +13,7 @@ top products, and geographic distribution.
 - Power Query
 
 ## 📷 Dashboard Preview
--![Dashboard](Power BI/Power_BI_Dashboard.png)
+-[Dashboard](Power BI/Power_BI_Dashboard.png)
 
 ## 📈 Key Insights
 - Total Sales: 2.30M
